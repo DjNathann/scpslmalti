@@ -1,4 +1,4 @@
-# Il-lingua Malti għal logħba SCP: Secret Laboratory
+# Il-lingwa Malti għal logħba SCP: Secret Laboratory
 
 Q. Kif nagħmel install?
 
