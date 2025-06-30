@@ -1,0 +1,56 @@
+Vera Baxx
+Baxx
+Medju
+Għoli
+Vera Għoli
+Estrem
+Attiv
+Mhux Attiv
+Id-dell
+Il-kwalita tad-Dell
+Id-dawl ta' Faċilita
+Riżoluzzjoni
+Aspett tas-Skrin
+Tieqa tas-Skrin
+Frame Rate Qolli
+Anti-aliasing
+V-Sync
+Ħmieġ
+Kwalita tan-Nisġa
+Id-dawl
+Teqgħid tas-Skrin
+Kwalita & Preżentazzjoni
+Iffriża Ġisem
+Ħin biex jiffriża l-ġisem mejjet
+Limitu tal-FPS
+Effett Viżwali
+Jiċċaqlaq ir-Ras
+Jiċċaqlaq is-skrin mis-Splużjoni
+Granata tal-Leħħa tagħmel is-Skrin Skur
+Kollu
+Oħrajn
+1/2 Refresh Rate
+1/3 Refresh Rate
+1/4 Refresh Rate
+Il-għażla proporzjon tal-aspett mhux appoġġat mill-monitor tiegħek
+Skrin Kollu Esklussiv
+Skrin bla Tieqa - Żommu Viżibbli
+Skrin bla Tieqa - Aħbi Meta Mhux Ffukat
+Bit-Tieqa
+SMAA Kwalita Lest
+Ambjent Okkażjoni
+Kwalita tal-Leqq
+Neħħi l-fiżika għar-ragdolls (nies mejtin) wara jgħaddi xi ħin speċifikat biex tnaqqas l-użu tas-CPU.
+Ir-riżoluzzjoni proporzjon tal-aspett tiegħek mhux appoġġjat!\nXi elementi tal-interfaċċja jistgħu ma jidhrux sew.
+Toqob mill-Balal
+Ħmieġ mid-Demm
+Tieqa tal-Monitor
+• Skrin Kollu Esklussiv: Il-logħba għandha kontroll sħiħ fuq l-iskrin.\n• Skrin bla Tieqa: Joħloq effett ta' skrin sħiħ billi jiġġebbed it-tieqa biex tkopri l-iskrin kollu. Għażliet differenti jikkontrollaw jekk it-tieqa tal-logħba għandhiex tibqa' viżibbli jew timminimizza awtomatikament meta ma tkunx tiffoka (preżempju, tagħżel tieqa oħra).
+Grafika tal-API
+Tibdel il-Librerija tal-Grafika 3D utilizzata mil-logħba.\nDin l-għażla hija sperimentali u għallek hija rakkomandat li żżommha fuq Auto —jekk qed tipprova ssolvi problema speċifika ta' tirrendi jew prestazzjoni b'ħardwer appoġġat ħażin.
+Il-bidla se jsiru wara li terġa' tibda l-logħba.
+Mhux disponibbli għax l-API tal-Grafika ġiet sfurzata mill-permezz parametri tat-tnedija.
+Limitu għad Demm
+Limitu għat Toqob
+Uri Labar
+Viżjoni tal-SCP-939 Imċajpar

@@ -1,0 +1,57 @@
+0~Karta Ewlenin tal-Purtinar
+1~Karta Ewlenin tax-Xjenzat
+2~Karta Ewlenin tas-Sorvelja Ir-riċerka
+3~Karta Ewlenin tal-Maniġer taż-Żona
+4~Karta Ewlenin tal-Gwardja
+5~Karta Ewlenin tal-Privat MTF
+6~Karta Ewlenin tal-Inġinier tal-Manteniment
+7~Karta Ewlenin tal-Operattiv MTF
+8~Karta Ewlenin tal-Kaptan MTF
+9~Karta Ewlenin tal-Maniġer tal-Faċilita
+10~Apparat ta' Aċċess tar-Ribelli Kaos
+11~Karta Ewlenin tal-O5
+12~Radju~Jippermetti komunikazzjoni fuq distanzi l-bogħod bejn apparati. Il-firxa tista' tiġi aġġustata.
+13~COM-15
+14~Apparat għall-Ewwel Għajnuna~Fejjaq il-uġigħ tiegħek.
+15~Torċ~Ħalli jkun hemm id-dawl!
+16~Mikro H.I.D.~Magna elettriku tqil iddisinjat għat-terminazzjoni ta' anomaliji.
+17~SCP-500~Il-Kura. Jiddilek is-saħħa mal-ewwel u jfejjaq kważi kull mard.
+18~SCP-207~Iżżid il-mobbilita imma tagħmillek il-ħsara.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granata~Splussiv qawwi li jagħmel ħsara sinifikanti. Tisplodi wara jgħaddi ftit ħin meta twaddbu.
+26~Granata tal-Leħħa~Lill-għedewwa tiegħek issiru agħmi u diżorjentat. Tisplodi wara jgħaddi ftit ħin meta twaddbu.
+30~COM-18
+31~SCP-018~Super ballun bil-abbilta' tal-bqeż b'effiċjenza estrema. Tista' tkun fatali b'veloċitajiet għoli.
+32~SCP-268~Meta tintlibes, tagħmlek mhux viżibbli għal temporanjament jekk ma tgħammelx xi interazzjoni.
+33~Adrenalina~Tipprovdi ftit ipproteġa u enerġija għal temporanjament.
+34~Pilloli~Bil-mod ifejjaqlek il-uġigħ.
+35~Munita~Mhux ċert għaliex trid iġġorr dan miegħek...
+36~Korazza Ħafif
+37~Korazza tal-Ġlieda
+38~Korazza Tqil
+39~.44 Rivolver
+40~AK
+41~Senter
+42~Borża Ħelu~Borża li fiha tip ta’ ħelwa:
+43~SCP-2176~Il-Dawl tal-Spirti tiegħek stess! Attenzjoni: Fraġli. Jagħmel ħsara l-elettroniku mawwarek meta tinkiser. 
+44~SCP-244-A~Vażun antik, li huwa vera kiesaħ. Joħloq sħaba kbira ta’ ċpar silġ meta tgħammlu mal-art.
+45~SCP-244-B~Vażun antik, li huwa vera kiesaħ. Joħloq sħaba kbira ta’ ċpar silġ meta tgħammlu mal-art.
+46~SCP-1853~Iżżid id-destrezza u l-immaniġġjar tal-arma meta ħajtek huwa fil-periklu.
+47~3-X Tfixkil Partiċelli~Arma stramba li tispara enerġija qawwija u tevapora n-nies.
+48~COM-45
+49~SCP-1576~Titkellem mal-mejtin temporanjament. Tista' terġa' tuża ħa wara jgħaddi xi ħin.
+50~Jailbird~Xiex?!
+51~Anti-Kola~Ir-riżultat ta' esperiment b'SCP-914. Tajjeb għal saħħtek, ħażin għal mobbilita tiegħek. Se jsalvalek ħajtek f'każ ta' bżonnijiet.
+52~FR-MG-0
+53~A7
+54~Fanal~Fanal qadima, bl-isem "Daniel" imnaqqax fuqu.
+55~SCP-1344~Sett ta' nuċċalijiet modifikati li tippermettilek kief tara l-pożizzjonijiet ta' nies minn ġol-ħitan. Wara tilbsu, qatt ma tista' tneħħihom!
+56~Silġa
+57~Faħma
+58~Faħma?
+59~Kasett?~Fiha tejp mhux bil-ittikkettjar. Aħjar ma ddoqqhiex. Ddoqqhiex.
+61~Aċċess Għal Barra~Aċċess bil-waħda użu biss biex tiftaħ il-bibien tal-ħruġ.
+62~SCP-127

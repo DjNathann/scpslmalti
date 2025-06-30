@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+Għanijiet li lestew jidru hawn!
+<color=%achieverColor%>%achieverName%</color> għattel <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> weġġa' <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> ħarrab mil-Faċilita
+<color=%achieverColor%>%achieverName%</color> attivaw <b>Ġeneratur</b>
+<color=%achieverColor%>%achieverName%</color> ġabbar <color=red>%itemName%</color>

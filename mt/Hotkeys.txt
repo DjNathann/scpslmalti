@@ -1,0 +1,41 @@
+Tasti
+Għamel Tast Ġdid
+Il-tasti jippermettu li l-oġġetti jiġu assenjati mat-tastiera, ħalli tista' tużahom mingħajr ma jkollok tiftaħ l-inventarju tiegħek.
+Karta Ewlenin
+Arma Primarja
+Arma Sekondarja
+Mediċina
+Granata
+Isem
+Tast assenjat
+Apparenza
+Kju
+Prijorita l-għażla tal-oġġett
+Jippermetti li jiġi stabbilit il-punt tal-oġġetti fil-kju bbażat fuq il-kundizzjonijiet definiti mill-utent.
+Moħbi
+Ikona Normali
+Ikona Żgħir
+Kju għal oġġetti
+L-għażla hija bbażata fuq l-ordni tal-elementi fil-ġabra ta' ‘Oġġetti’ hawn taħt.
+Ordni ta' inventarju
+L-għażla hija bbażata fuq l-ordni fl-inventarju.
+Xejn
+Mediċina saħħtu
+Jipprova joħroġ l-aħjar oġġett mediku bbażat fuq saħħtek, l-ammont tas-stamina, jew l-effetti tal-istatus.
+Ftakar ta' qabel
+Il-punt tas-sekwenza biex tibda mhux se jerġa' jiġi ssettjat meta tagħżel oġġett differenti.
+Skoperta bieb bil-aċċess
+Jagħti prijorita lill-karti ewlenin li jistgħu jaċċessaw bibien fil-qrib.
+Aqbeż l-armi tan-nar li huma vojt
+Jagħti prijorita lill-armi tan-nar li huwa mgħobbi minflok il-vojt.
+Oġġetti
+Indiċi l-logħba
+Din l-għażla tippermetti d-definizzjoni ta' ordni kif iddettat mill-pożizzjoni tagħhom fl-inventarju. L-oġġetti fl-inventarju li ma jaqblux mal-filtru li huma magħżulin se jiġu injorati meta jiġi ddeterminat l-ordni.
+Neħħi Kull Tasti Kostuma
+Irrestawra (Hold)
+Editja: [hotkey]
+Tast Ġdida Mingħajr Isem
+Kull Arma tan-Nar
+Kull Karta Ewlenin
+Kull Diposable
+Kull Oġġett tal-SCP

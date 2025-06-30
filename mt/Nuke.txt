@@ -1,0 +1,4 @@
+<size=1800><color=red>MITFI</color></size>
+<color=red><size=2000>STENNA</size></color>
+<color=green><size=1800>MIXGĦAWL</size></color>
+MA TISTAX TINTEFA

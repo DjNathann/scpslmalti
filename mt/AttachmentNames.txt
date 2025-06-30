@@ -1,0 +1,46 @@
+Xejn~Għażla normali mingħajr ebda effett.
+Vista tal-Ħadid~Par ta' markers ta' allinjament li jiffurmaw mezz sempliċi u ħafif tal-vista.
+Vista ta' Tikka~Vista rifless b'tikka żgħira illuminata li tindika l-punt tal-mira.
+Vista Olografika~Vista b'riflessjoni olografiku. Effettiva fil-ġlieda mill-qrib.
+Tromba tal-Lejl~Vista teleskopika miżjuda b'apparat biex targħra fid-dlam. Tqil, iżda effettiv fil-kundizzjonijiet fid-dawl.
+Vista li Jgħoddlok~Vista Ħadida b'apparat integrat għall-għadd il-munizzjon. 
+Vista Teleskopiku~Apparat tqil tal-vista, li jipprovdi ingrandiment ottiku. Perfetta għal medda twila, iżda tillimita l-perċezzjoni.
+Stokk Normali~Stokk regolari, li jipprovdi kontroll aħjar għal-arma tan-nar meta timmira l-vista.
+Stokk Estiż~Tipprovdi kontroll aħjar għal-arma tan-nar meta timmira l-vista, iżda żżid il-ħin tat-tagħmir.
+Stokk Miġbud Lura~Jagħmel l-arma tan-nar aktar kompat, iżżid il-mobilità. 
+Stokk Ħafif~Inaqqas il-piż tal-arma tan-nar iżda jagħmilha aktar diffiċli biex tikkontrolla l-skoss meta timmira l-vista.
+Stokk Tqil~Żieda fil-piż inaqqas il-mobilità iżda tagħmel l-arma tan-nar aktar stabbli meta timmira l-vista.
+Stokk li Inaqqas is-Skoss~ Stokk mgħammra b'sistema li tipprova tferrex il-forza bejn sparatur individwali.
+Qabda~Qabda vertikali 'l quddiem. Tagħmilha aktar faċli biex timmaniġġja ż-żieda mill-kanna duħħan.
+Vista bil-Lejżer~Jipprovdi il-punt ta 'referenza viżwal fuq il-mira, li jgħin fl-isparar mil-ġenb iżda jista' faċilment jiżvela l-pożizzjoni tiegħek.
+Torċ~Sors tad-dawl tixgħalu meta trid. Iżżid il-piż totali għal-arma tan-nar iżda tista’ ssalva ruħħek f’żoni dlam ċappa. 
+Ikkontja l-Munizzjon~Apparat li joddlok il-munizzjon. Teknoloġija sperimentali wriet li hija utli, speċjalment b'rivisti ta 'kapaċità għolja.
+Kanna Normali~Kanna konvenzjonali mingħajr apparat għal-kanna duħħan.
+Kanna Estiża~Ittejjeb il-qawwa tan-nar ġenerali, iżda tikkontribwixxi għal mobilità baxxa kkawżata minn żieda fil-piż u t-tul.
+Kanna li Soppressja l-Ħoss~Moderatur tal-ħoss. Inaqqas il-ħoss tal-isparar, iżda jżid il-piż u t-tul għal-arma tan-nar.
+Kanna li Jaħbi l-Leħħ~Jelimina l-leħħ tal-kanna duħħan. Jagħmilha aktar faċli biex tispara fid-dlam.
+Kanna tal-Kumpensatur~Kumpensatur tas-skoss. Juża gassijiet propellanti biex inaqqas is-skoss, iżda jżid l-intensità akustika bil-kull sparar.
+Kanna tal-Booster~Ittejjeb ir-rata tan-nar, li tirriżulta f'aktar sparatura kull sekonda, iżda l-arma hija aktar diffiċli biex tikkontrolla.
+Rivista bil-FMJ~Rivista normali li fih balal sħaħ tal-ġakketta tal-metall.
+Rivista bil-AP~Rivista normali li fih balal li jtaqqbu l-armatura.
+Rivista bil-JHP~Rivista normali li fih balal b'punt vojt.
+Rivista Estiża bil-FMJ~Rivista estiż li fih balal sħaħ tal-ġakketta tal-metall.
+Rivista Estiża bil-AP~Rivista estiż li fih balal li jtaqqbu l-armatura.
+Rivista Estiża bil-JHP~Rivista estiż li fih balal b'punt vojt.
+Tanbura bil-FMJ~Rivista tanbur ta' kapaċità għolja li fih balal sħaħ tal-ġakketta tal-metall.
+Tanbura bil-AP~Rivista tanbur ta' kapaċità għolja li fih balal li jtaqqbu l-armatura.
+Tanbura bil-JHP~Rivista tanbur ta' kapaċità għolja li fih balal b'punt vojt.
+Rivista Żgħira bil-FMJ~Rivista ta' kapaċità baxxa li fih balal sħaħ tal-ġakketta tal-metall.
+Rivista Żgħira bil-AP~Rivista ta' kapaċità baxxa li fih balal li jtaqqbu l-armatura.
+Rivista Żgħira bil-JHP~Rivista ta' kapaċità baxxa li fih balal b’punt vojt.
+Ċilindru ta' Ħamsa~Iżomm inqas skrataċ iżda kapaċi jagħmel aktar ħsara lill-għedewwa armati.
+Ċilindru ta' Sitta~Il-klassiku.
+Ċilindru ta' Tmienja~Iżomm aktar skrataċ, iżda l-ġibda l-grillu itqal teħtieġ aktar ħin biex twettaq sparrar preċiż.
+Riċevitur tal-Karabina~Riċevitur ta' fuq tal-karabina regolari li huwa meqjus bħala kompromess kbir bejn il-qawwa tan-nar u l-mobilità.
+Riċevitur tax-Xkubetta~Riċevitur ta' fuq ta' daqs sħiħ itejjeb il-qawwa tan-nar u l-eżattezza, iżda sistema tal-gass itqal tnaqqas ir-rata tan-nar.
+Kanna Żgħir~Verżjoni mqassra tal-kanna normali, użata biex ittejjeb il-veloċità tal-ġbid u l-mobilità.
+Għonq ta' Kanna~Iżżid ir-raġġ totali tal-firxa iżda ttejjeb il-konsistenza tal-mudell.
+Kanna Estiża~Inaqqas ftit ir-raġġ tal-firxa iżda jżid il-piż u t-tul totali għal-arma tan-nar.
+Mingħajr is-Stokk~Konfigurazzjonijiet qosra jiġu b'mobbiltà għolja, iżda t-tneħħija tas-stokk minn xkubetta tas-skoss għoli mhix dejjem l-aħjar ideja.
+Sistema li Jisparra Waħda~Sistema normali. Waħda ġidba l-grillu iwassal għal ħarġa waħda.
+Sistema li Tisparra Tnejn~Mekkaniżmu ta' grillu modifikat li jħaddem iż-żewġ martelli b'ġibda waħda.

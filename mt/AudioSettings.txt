@@ -1,0 +1,25 @@
+Volum
+Master
+Vuċi
+Effett tal-Ħoss
+Qabda tal-Mikrofonu
+Magna
+Teqgħid Privat
+Irranġa
+Menu tal-Logħba
+Mużika
+Interfaċċja
+Tema
+Soppressja l-Ħoss
+Tnaqqas l-istorbju fl-isfond li jinġabar mill-mikrofonu tiegħek. Li żżomm din il-għażla attivat hija rakkomandata ħafna u m'għandu jkollha l-ebda impatt fuq il-kwalita tal-vuċi tiegħek.
+Linji tal-Vuċi
+Volum ta SCP-127
+Volum ta SCP-3114
+Effett tal-Awdjo
+Irbombja l-Vuċi
+Jikkontrolla kemmu mifgugħ u kemm irbombja l-vuċi meta tibda timxi l-bogħod mis-sors.
+Normali
+Irbombja Għoli
+Irbombja Minimu
+Avviż Simulazzjoni tal-Kelliem 
+Jikkontrolla jekk l-avviż tas-sistema P.A. (bħal C.A.S.S.I.E.) jintlagħab ħdejn ispeaker ħdejnek jew ittrażmetta globali.
