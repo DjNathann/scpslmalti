@@ -1,6 +1,6 @@
 # Il-lingwa Malti għal logħba SCP: Secret Laboratory
 
-Q. Kif nagħmel install?
+Q. Kif ngħamel install?
 
     Għafas il-vleġġa fejn hemm "Code", għafas fuq "Download ZIP", u "Extract All..." ġol-folder ta' "\Steam\steamapps\common\SCP Secret Laboratory\Translations". Il-file ġewwa għandu ikun folder ta' mt, mhux .zip
     Iftaħ SCP: Secret Laboratory u l-innaviga għal Settings(eta għal name change)->Interfaċċja->Interface Language(eta għal name change)-> u għażel "Malti"
